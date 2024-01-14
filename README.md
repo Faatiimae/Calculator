@@ -14,7 +14,7 @@
 > *STEP-2:*  enter the `calculator` folder that appears <br/>
 > *STEP-3:*  open the folder you are in in a text editor <br/>
 > *STEP-4:*  run the  all the`index.html` files in the main folder <br/>
-> *STEP-5:*  to download the project as `.zip`  [here](https://github.com/Faatiimae/test/archive/refs/heads/master.zip) click <br/>
+> *STEP-5:*  to download the project as `.zip`  [here]() click <br/>
 
 
 
